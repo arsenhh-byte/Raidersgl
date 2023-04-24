@@ -10,11 +10,12 @@
     margin-left: 0px;
     margin-right: 0px;
   }
+  
   .global{
     padding: 50px;
     color: #f0f9ff;
     margin-top: 80px;
-    background-image: url("../../../assets/images/footer.png");
+    background-image: url("../../../assets/images/footer2.JPG");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -76,6 +77,7 @@
     font-weight: 500;
     opacity: 0.8;
     font-size: 16px;
+    
   }
   @media (max-width: 767px) {
   
